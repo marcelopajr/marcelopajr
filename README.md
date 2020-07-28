@@ -1,4 +1,4 @@
-### Hi there! 😁
+### Hi there! :smiley:
 
 My name is Marcelo Pereira from Brazil (🇧🇷). I am a student of Systems Analysis and Development, focusing my studies on Front-End and Web Development.
 

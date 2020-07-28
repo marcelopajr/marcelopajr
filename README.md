@@ -1,6 +1,6 @@
 ### Hi there! :smiley:
 
-My name is Marcelo Pereira from Brazil (🇧🇷). I am a student of Systems Analysis and Development, focusing my studies on Front-End and Web Development.
+My name is Marcelo Pereira from Brazil (🇧🇷). I am graduated in Business Administration and currently studying Analysis and Systems Development, focusing my learning on Front-End and Web Development.
 
 In my free time I like to play videogames (:video_game:), watch movies (:film_strip:) and series (:tv:).
 

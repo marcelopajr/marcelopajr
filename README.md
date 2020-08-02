@@ -2,7 +2,7 @@
 
 My name is Marcelo Pereira from Brazil (🇧🇷). I am graduated in Business Administration and currently studying Analysis and Systems Development, focusing my learning on Front-End and Web Development.
 
-In my free time I like to play videogames (:video_game:), watch movies (:film_strip:) and series (:tv:).
+In my free time I like to play video games (:video_game:), watch movies (:film_strip:) and series (:tv:).
 
 Contact:
 

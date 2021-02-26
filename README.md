@@ -1,8 +1,34 @@
-### Hi there! :smiley:
+<h1 align="center">Hi 👋🏻, I'm Marcelo Pereira</h1>
+<h3 align="center">I'm a Web Developer</h3>
 
-My name is Marcelo Pereira from Brazil (🇧🇷). I am graduated in Business Administration and currently studying Analysis and Systems Development, focusing my learning on Front-End and Web Development.
+- :computer: Focused on learning more about **Front-End**
 
-In my free time I like to play video games (:video_game:), watch movies (:film_strip:) and series (:tv:).
+- :mortar_board: Graduated in Business School
+
+- :books: Studying Analysis and Systems Development
+
+- :video_game: Fun fact: I love videogames and movies
+
+**Languages:**
+
+<p align="center">
+<div align="center">
+<code><img height="40" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+</div>
+</p>
+
+**Tools:**
+
+<p align="center">
+<div align="center">
+<code><img height="40" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg"></code>
+</div>
+</p>
 
 Contact:
 

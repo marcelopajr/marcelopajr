@@ -3,11 +3,11 @@ I’m a **Front-End Developer** living in Brazil experienced in building respons
 
 ## About me:
 
-- :mortar_board: Graduated in Business School
+:mortar_board: Graduated in Business School
 
-- :computer: Studying Analysis and Systems Development
+:computer: Studying Analysis and Systems Development
 
-- :video_game: I love videogames and movies
+:video_game: I love videogames and movies
 
 ## Languages and Tools:
 

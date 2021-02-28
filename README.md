@@ -19,9 +19,9 @@ I’m a **Front-End Developer** with experience in building responsive, accessib
 <img height="40" src="img/javascript.svg" alt="JavaScript">
 <img height="40" src="img/typescript.svg" alt="TypeScript">
 <img height="40" src="img/react.svg" alt="React">
-<img height="40" src="img/git.svg" alt="Git">
-<img height="40" src="img/github.svg" alt="GitHub">
+<img height="40" src="img/nextjs.svg" alt="NextJs">
 <img height="40" src="img/vscode.svg" alt="VSCode">
+<img height="40" src="img/git.svg" alt="Git">
 <img height="40" src="img/postman.svg" alt="Postman">
 <img height="40" src="img/netlify.svg" alt="Netlify">
 <img height="40" src="img/vercel.svg" alt="Vercel">

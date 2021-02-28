@@ -31,4 +31,4 @@ I’m a **Front-End Developer** with experience in building responsive, accessib
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/marcelopajr" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn Marcelo" height="40" width="40" /></a>
-<a href="https://instagram.com/marcelopajr" target="_blank"><img src="img/instagrama.svg" alt="Instagram Marcelo" height="40" width="40" /></a>
+<a href="https://instagram.com/marcelopajr" target="_blank"><img src="img/instagram.svg" alt="Instagram Marcelo" height="40" width="40" /></a>

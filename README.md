@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Marcelo!
 
-I’m a **Front-End Developer** with experience in building responsive, accessible websites and web applications. I'm always studying, learning new technologies and improving my portfolio.
+A **Front-End Developer** with experience in building responsive, accessible websites and web applications.
+I'm always studying, learning new technologies and improving my skill set.
 
 ## Languages and Tools:
 

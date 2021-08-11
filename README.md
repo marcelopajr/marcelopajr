@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Marcelo!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Marcelo!
 
 A **Front-End Developer** with experience in building responsive, accessible websites and web applications.
 I'm always studying, learning new technologies and improving my skill set.

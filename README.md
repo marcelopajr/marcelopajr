@@ -15,6 +15,9 @@ I'm always studying, learning new technologies and improving my skill set.
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="img/nextjs.svg" alt="NextJs"></a>
 <a href="https://vercel.com/" target="_blank"><img height="40" src="img/vercel.svg" alt="Vercel"></a>
 <a href="https://www.netlify.com/" target="_blank"><img height="40" src="img/netlify.svg" alt="Netlify"></a>
+<a href="https://sass-lang.com/" target="_blank"><img height="40" src="img/sass.svg" alt="Sass"></a>
+<a href="https://styled-components.com/" target="_blank"><img height="40" src="img/styled-components.svg" alt="Styled Components"></a>
+<a href="https://www.figma.com/" target="_blank"><img height="40" src="img/figma.svg" alt="Figma"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img height="40" src="img/vscode.svg" alt="VSCode"></a>
 <a href="https://www.postman.com/" target="_blank"><img height="40" src="img/postman.svg" alt="Postman"></a>
 <a href="https://git-scm.com/" target="_blank"><img height="40" src="img/git.svg" alt="Git"></a>

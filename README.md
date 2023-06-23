@@ -26,11 +26,11 @@ I'm always studying, learning new technologies and improving my skill set.
 
 ## About me:
 
+:computer: Graduated in Analysis and Systems Development
+
 :mortar_board: Graduated in Business School
 
-:computer: Studying Analysis and Systems Development
-
-:books: Currently studying React, NextJs and TypeScript
+:books: Currently studying React.js, Next.js and TypeScript
 
 :video_game: I love videogames and movies
 

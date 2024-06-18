@@ -27,7 +27,6 @@ As a dedicated **Front-End Engineer**, I bring over **4 years of hands-on experi
 <a href="https://www.cypress.io/" target="_blank"><img height="40" src="img/cypress.svg" alt="Cypress"></a>
 <a href="https://sass-lang.com/" target="_blank"><img height="40" src="img/sass.svg" alt="Sass"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img height="40" src="img/tailwind.svg" alt="Tailwind"></a>
-<a href="https://styled-components.com/" target="_blank"><img height="40" src="img/styled-components.svg" alt="Styled Components"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img height="40" src="img/bootstrap.svg" alt="Bootstrap"></a>
 <a href="https://www.postman.com/" target="_blank"><img height="40" src="img/postman.svg" alt="Postman"></a>
 <a href="https://vercel.com/" target="_blank"><img height="40" src="img/vercel.svg" alt="Vercel"></a>

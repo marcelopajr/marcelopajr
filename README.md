@@ -4,7 +4,7 @@ As a dedicated **Front-End Engineer**, I bring over **4 years of hands-on experi
 
 ## Key Achievements:
 
-🚀 Performance Optimization Expert: At The Brooklyn Brothers, I significantly boosted web performance for Unilever, Hellmann’s, Rexona, Degree and Sure, enhancing site speed by 30% and improving SEO rankings by 25%. My work led to more engaging and responsive user experiences, directly impacting client satisfaction and retention.
+🚀 Performance Optimization Expert: At The Brooklyn Brothers, I significantly boosted web performance for Unilever, Hellmann’s, Rexona, Degree, Sure and Tresemmé, enhancing site speed by 30% and improving SEO rankings by 25%. My work led to more engaging and responsive user experiences, directly impacting client satisfaction and retention.
 
 💰 Financial Services Innovation: At Letsbank, I streamlined banking processes to increase efficiency, resulting in a 50% rise in new account creation and a 40% reduction in processing time. These improvements helped the company enhance customer onboarding and operational productivity.
 

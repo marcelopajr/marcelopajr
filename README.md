@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Marcelo Almeida!
 
-As a dedicated **Front-End Engineer**, I bring over **4 years of hands-on experience** in creating robust, scalable, and user-focused web applications. My expertise lies in utilizing modern frameworks and technologies such as React.js, Next.js, and TypeScript to deliver high-performance solutions that drive business success.
+As a dedicated **Front-End Developer**, I bring over **5 years of hands-on experience** in creating robust, scalable, and user-focused web applications. My expertise lies in utilizing modern frameworks and technologies such as React.js, Next.js, and TypeScript to deliver high-performance solutions that drive business success.
 
 ## Key Achievements:
 

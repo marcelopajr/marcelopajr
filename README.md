@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Marcelo Almeida!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Marcelo Pereira!
 
 As a dedicated **Front-End Developer**, I bring over **5 years of hands-on experience** in creating robust, scalable, and user-focused web applications. My expertise lies in utilizing modern frameworks and technologies such as React.js, Next.js, and TypeScript to deliver high-performance solutions that drive business success.
 
@@ -49,4 +49,4 @@ As a dedicated **Front-End Developer**, I bring over **5 years of hands-on exper
 ## Get in touch:
 
 <a href="https://www.linkedin.com/in/marcelopajr/?locale=en_US" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn Marcelo" height="40" width="40" /></a>
-<a href="https://marceloalmeida.vercel.app/" target="_blank"><img src="img/portfolio-logo.svg" alt="Portfolio Marcelo" height="40" width="40" /></a>
+<a href="https://marcelopereira.vercel.app/" target="_blank"><img src="img/portfolio-logo.svg" alt="Portfolio Marcelo Pereira" height="40" width="40" /></a>
